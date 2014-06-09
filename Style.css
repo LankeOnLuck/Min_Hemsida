@@ -1,0 +1,34 @@
+/**{
+	border: 1px solid;
+}*/
+
+#Buttons {
+	display: inline-block;
+	float: right;
+}
+#Home_Button {
+	
+}
+#Contact_Button {
+	
+}
+#About_Button {
+	
+}
+#My_Work_Button {
+	
+}
+body{
+	background-image: url(Images/Background.png);
+	background-repeat: repeat;
+	
+}
+#Background_Text {
+	float: left;
+}
+#my_work{
+	float: left;
+	
+}
+	
+	
